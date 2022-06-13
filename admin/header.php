@@ -1,16 +1,4 @@
-<?php
-    include_once('../config/connection.php');
-
-    $id = $_GET['id'];
-
-    $stmt = $connect->prepare('SELECT id,title,description FROM blog WHERE id=:id');
-
-    $stmt->execute(array('id'=>$id));
-
-    $results = $stmt->fetchAll(PDO::FETCH_ASSOC);
-
-?>
-    <!DOCTYPE html>
+<!DOCTYPE html>
     <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -23,12 +11,18 @@
         <title>Document</title>
     </head>
     <body>
-        <!-- OLHA ESSE SLIDE DE NOVO -->
-        <!-- Adiciona a foto para ser vista -->
-          <?php foreach($results as $post): ?>
-		        <h1><?= $post['title'] ?></h1>
-	          	<p><?= $post['description']?></p>
-          <?php endforeach; ?>
-      </form>
-    </body>
-    </html>
+    <div class="container-fluid">
+    <div class="row">
+        <nav id="sidebarMenu" class="col-md-3 col-lg-2 text-white bg-dark pt-3">
+        <h2>Bom dia <?php echo $_SESSION['nome']; ?></h2>
+            <!-- <p><a href="?sair">Deslogar</a></p> -->
+            <ul class="nav flex-column">
+                <li class="nav-item">
+                    <!-- <a href="" class="nav-item">Controlar Posts</a> -->
+                </li>
+                </li class="nav-item">
+                    <!-- <a href="" class="nav-item">Controlar Slides</a> -->
+                </li>
+            </ul>
+            <p><a href="?sair">Deslogar</a></p>
+        </nav>

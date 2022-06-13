@@ -28,10 +28,16 @@
         <li class="nav-item">
           <a class="nav-link disabled">Khalisin</a>
         </li>
+          <li class="nav.item">
+             <a class="nav-link" href="category.php?cat=cat-1">Cat 1</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link"  href="category.php?cat=cat-2">Cat 2</a>
+          </li>
       </ul>
-      <form class="d-flex" role="search">
-        <input class="form-control me-2" type="search" placeholder="Busca" aria-label="Search">
-        <button class="btn btn-outline-success" type="submit">Ajolhe</button>
+      <form  action="buscar.php" class="d-flex" role="search">
+        <input class="form-control me-2" name="buscar" type="search" placeholder="buscar" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit" name="buscar">Ajolhe</button>
       </form>
     </div>
   </div>

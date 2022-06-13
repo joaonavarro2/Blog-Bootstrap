@@ -1,5 +1,6 @@
 <?php
     include_once('../config/connection.php');
+    
     $stmt =  $connect->prepare("INSERT INTO blog (title, description, data, image) VALUES(:TITLE, :DESCRIPTION, :DATA, :IMAGE)");
  
     $title = $_POST['title'];
