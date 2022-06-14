@@ -36,7 +36,7 @@
           </li>
       </ul>
       <form  action="buscar.php" class="d-flex" role="search">
-        <input class="form-control me-2" name="buscar" type="search" placeholder="buscar" aria-label="Search">
+        <input class="form-control me-2"  name="buscar" type="search" placeholder="buscar" aria-label="Search">
         <button class="btn btn-outline-success" type="submit" name="buscar">Ajolhe</button>
       </form>
     </div>

@@ -6,6 +6,10 @@ h1{
     
 }
 p{
+    color: black;
+}
+h6{
     color: white;
+    font-size: 13px;
 }
 

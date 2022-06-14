@@ -76,7 +76,8 @@
     <div class="card">
       <img src="imagens/missi.webp" class="card-img-top" alt="...">
       <div class="card-body">
-          <a href="viewPost.php" target="_blank" rel="noopener noreferrer"><h3>Missandei</h3></a>
+          <h3>Missandei</h3>
+          <p class="card-text">Missandei era originalmente uma escrava poliglótica de Naath que serviu como intérprete para Kraznys mo Nakloz de Astapor , até ser libertada por Daenerys Targaryen , servindo como sua conselheira de confiança e serva desde então. Ela estava entre os subordinados mais leais de Daenerys.</p>
       </div>
     </div>
   </div>
@@ -84,23 +85,27 @@
     <div class="card">
       <img src="imagens/ty.webp" class="card-img-top" alt="...">
       <div class="card-body">
-        <a href="viewPost.php" target="_blank" rel="noopener noreferrer"><h3 >Teyrion</h3></a>
+        <h3 >Teyrion</h3>
+        <p class="card-text">Tyrion Lannister foi o filho mais novo de Tywin e Joanna Lannister, nascido com nanismo. Devido a morte de Joanna no parto dele, Tyrion foi julgado e pressionado por sua família a vida inteira. Após ser acusado falsamente do assassinato do Rei Joffrey I Baratheon, ele matou seu próprio pai que havia dado a sentença de morte a Tyrion. Forçando um autoexílio em Essos, ele tentou forjar alianças com a Rainha Daenerys em sua restauração Targaryen.
+           Tyrion aconselhou Daenerys a evitar violência e priorizar diplomacia, mas seus conselhos levaram a várias derrotas da Rainha Dragão. Tudo isso culminou na Batalha de Porto Real, em que Tyrion testemunhou Daenerys cometer um genocídio contra a cidade matando diversos inocentes. Desacreditado, ele abandonou o cargo de Mão da Rainha e foi preso. Após o assassinato de Daenerys pelas mãos de Jon Snow, Tyrion foi convocado como prisioneiro dos Imaculados no Grande Conselho de 305 d.C., onde discursou a favor do Rei Brandon I Stark. Como punição por seus crimes, o novo rei decidiu que Tyrion seria sua Mão, passando o resto da vida compensando os seus erros e servindo Westeros.</p>
       </div>
     </div>
   </div>
   <div class="col gy-5">
     <div class="card">
-      <img src="imagens/drogo.webp" class="card-img-top" alt="...">
+      <img src="imagens/Jorah.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <a href="viewPost.php" target="_blank" rel="noopener noreferrer"><h3>Drogon</h3></a>
+        <h3>Jorah Mormont</h3>
+        <p class="card-text">Originalmente, Jorah estava trabalhando como espião para Varys, um Mestre de Sussurros (do inglês, Master of Whipers) do Rei Robert Baratheon, em Porto Real, ele enviava para Varys informações sobre os exilados Targaryen. Mas ele cresce a respeitar e admirar Daenerys e a servi-la com seriedade. Ele a salva de uma tentativa de assassinato, para de enviar relatórios para Varys e ignora um perdão oficial real que lhe permitiria voltar para casa em Westeros. Ele se envolve em sentimentos fortes e sem contrapartida para ela. Quando Daenerys aprende de sua espionagem passada, ele é demitido de seu serviço e leva ordens de deixar a sua presença, mas recentemente Tyrion Lannister o deu uma esperança de ganhar a confiança dela mais uma vez.</p>
       </div>
     </div>
   </div>
   <div class="col gy-5">
     <div class="card">
-      <img src="imagens/visi.jpg" class="card-img-top" alt="...">
+      <img src="imagens/verme.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <a href="viewPost.php" target="_blank" rel="noopener noreferrer"><h3>Viserion</h3></a>
+        <h3>Verme-Cizento</h3>
+        <p class="card-text">Verme Cinzento tornou-se um dos principais conselheiros de Daenerys Targaryen depois de adquirir os Imaculados dos Sábios Mestres de Astapor. Ele participa do saque de Astapor, infligiu Yunkai e liderou a libertação de Meereen. Durante o subseqüente movimento de resistência dos Filhos da Harpia, Verme Cinzento fica gravemente ferido em uma emboscada. Depois que Daenerys deixa Meereen na parte de trás do seu dragão, Drogon, Verme Cinzento permanece em Meereen para apoiar o governo de Tyrion Lannister, enquanto Jorah Mormont e Daario Naharis rastreiam a rainha desaparecida. Ele depois se apaixona pela conselheira de Daenery, Missandei. Mais tarde, Verme Cinzento navega com Daenerys para recuperar o Trono de Ferro. Como parte da invasão de Daenerys, Verme Cinzento e os Imaculados tomam Rochedo Casterly.</p>
       </div>
     </div>
   </div>

@@ -6,7 +6,7 @@
                 <i class="fa-solid fa-arrow-up"></i>
             </a>
             </p>
-            <p class="mb-1"> Todos os Direitos Reservados</p>
+            <h6> Todos os Direitos Reservados</h6>
              <p class="mb-0">
              <a href="https://www.instagram.com/" target="_blank">
                     <i class="fa-brands fa-instagram"></i>
