@@ -1,0 +1,3 @@
+Esse é o primeiro blog criado por mim,usando PHP e Bootstrap, ele tem funções como uma página de login do adm, página de controle de postagens e de postagem no blog.
+Tem a função de busca, que ele procura no banco de dados se há algum arquivo lá com o nome ou letra inserida. 
+Header e Footer, servem só para divisão do código para facilita alterações .
